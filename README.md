@@ -8,7 +8,7 @@
 
 ## M2RL: A Multimodal Multi-Interface Dataset for Robot Learning from Human Demonstrations
 
-![M2RL Modalities](./images/multi_modality.png)
+![M2RL Modalities](https://github.com/M2RL/m2rl-dataset/tree/main/images/multi_modality.png)
 
 Imitation learning, inspired by how humans learn complex skills through observation and demonstration, is a promising approach for teaching robots to perform manipulation tasks. However, most existing imitation learning datasets focus on a single interface or limited modality when capturing human demonstrations. This fails to fully capture the multimodal nature of how humans actually learn. 
 
@@ -23,7 +23,7 @@ The M2RL dataset offers several unique properties:
 - **Task Diversity:** It covers 8 diverse manipulation tasks spanning 4 distinct categories - translational motion, rotational motion, stationary engagement, and deforming engagement tasks. This enables evaluating different interfaces across a range of manipulation requirements.
 
 <figure>
-<img src="./images/tasks.jpg" width="100%" height="100%" align="center">
+<img src="https://github.com/M2RL/m2rl-dataset/tree/main/images/tasks.jpg" width="100%" height="100%" align="center">
 
 <figcaption style="display: block; margin: auto; text-align: center; font-size:12;"> The eight manipulation tasks in the M2RL dataset</figcaption>
 </figure>
