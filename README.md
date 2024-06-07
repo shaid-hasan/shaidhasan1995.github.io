@@ -8,7 +8,6 @@
 
 ## M2RL: A Multimodal Multi-Interface Dataset for Robot Learning from Human Demonstrations
 
-![M2RL Modalities](https://github.com/M2RL/m2rl-dataset/tree/main/images/multi_modality.png)
 ![M2RL Modalities](https://raw.githubusercontent.com/M2RL/m2rl-dataset/main/images/multi_modality.png)
 
 
@@ -27,13 +26,6 @@ The M2RL dataset offers several unique properties:
 ![Tasks](https://raw.githubusercontent.com/M2RL/m2rl-dataset/main/images/tasks.jpg)
 
 <figcaption style="display: block; margin: auto; text-align: center; font-size:12;">The eight manipulation tasks in the M2RL dataset</figcaption>
-
-
-<figure>
-<img src="https://github.com/M2RL/m2rl-dataset/tree/main/images/tasks.jpg" width="100%" height="100%" align="center">
-
-<figcaption style="display: block; margin: auto; text-align: center; font-size:12;"> The eight manipulation tasks in the M2RL dataset</figcaption>
-</figure>
 
 
 - **Skill Diversity:** Based on the trajectory patterns, M2RL encompasses 6 unique manipulation skills. This enhances the skill diversity captured in the dataset.
